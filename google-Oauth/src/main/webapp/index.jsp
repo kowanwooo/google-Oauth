@@ -14,6 +14,7 @@
 </head>
 <body>
 	<form class="container">
+		<h1>google-로그인 연습</h1>
 		<div class="mb-3">
 			<label for="exampleInputEmail1" class="form-label">Email
 				address</label> <input type="email" class="form-control"
